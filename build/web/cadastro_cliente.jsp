@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <form id="frmCadastro" action="cadastroCliente">
+        <form id="frmCadastro" action="cadastroCliente" method="POST">
             <table>
                 <tr>
                     <td>Nome: </td>
@@ -35,7 +35,7 @@
                     <td><input type="text" name="telefone" id="telefone_id"></td>
                 </tr>
                 <tr>
-                    <input type="submit" value="Cadastrar">
+                    <td><input type="submit" value="Cadastrar"></td>
                 </tr>
             </table>
         </form>

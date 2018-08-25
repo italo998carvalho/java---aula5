@@ -50,7 +50,7 @@ border-bottom: 3px solid #f5f5f5;
 <ul>
 <li> <a href="cadastro.jsp">Usuario</a></li>
 <li> <a href="#">Produto</a></li>
-<li> <a href="#">Cliente</a></li>
+<li> <a href="cadastroCliente">Cliente</a></li>
 <li> <a href="#">Sobre</a></li>
 </ul>
 </nav>
